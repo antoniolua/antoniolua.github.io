@@ -5,8 +5,7 @@ yesBtn.addEventListener('click',function(){
 
     Swal.fire({
         title: 'Siempre supe que si querias',
-        text: '♡',
-        text: 'mandame msj 3511446830',
+        text: 'mandame msj 3511446830 ♡',
         imageUrl: 'https://cdn-3.expansion.mx/c1/2a/e9cc406742c68f20ec6984ff3b1d/epn-corazon-momentos.jpeg',
         imageWidth: 400,
         imageHeight: 200,
